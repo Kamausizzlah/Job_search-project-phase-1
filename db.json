@@ -1,0 +1,67 @@
+{
+    "jobs": [
+        {
+            "title": "Software Engineer",
+            "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8am9iJTIwc2VhcmNofGVufDB8fDB8fHww",
+            "details": "Plans, designs, develops and tests software systems or application for the software enhancements and new products including cloud-based or internet-related tools. Writes code that meets specifications, typically for large and highly complex software programs and systems. Develops software applications and tools. Participates in software design.",
+            "openPositions": "2",
+            "link": "https://jobs.walgreens.com/en/job/-/-/1242/60467513712?clickid=f3e312bb-d765-4883-8e24-32ee96e71a77&p_sid=cCDlHcb&p_uid=lf5mtYZryb&ss=paid&utm_campaign=it_alljobs&utm_content=pj_board&utm_medium=jobad&utm_source=ziprecruiter&dclid=CjgKEAjwt-OwBhDjrq3TwZbHrxASJABZBZ0-LJe8iF-tbD-ScWY943gfEdV2kobVqjHcys-tDKibRvD_BwE"
+        },
+        {
+            "title": "Data Scientist",
+            "image": "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGF0YSUyMHNjaWVudGlzdHxlbnwwfHwwfHx8MA%3D%3D",
+            "details": "Execute the department's comprehensive data and analytics strategy that aligns with the company's objectives and the healthcare industry's evolving needs. Manage multiple analytics projects, ensuring they are delivered on time, within scope, and within budget.",
+            "openPositions": "3",
+            "link": "https://www.glassdoor.com/Job/data-scientist-jobs-SRCH_KO0,14.htm"
+        },
+        {
+            "title": "Project Manager",
+            "image": "https://media.istockphoto.com/id/1455241142/photo/black-project-manager-having-a-meeting-with-her-team-in-a-boardroom.webp?b=1&s=170667a&w=0&k=20&c=aqBvrFSIjOh81HlVuSYN7J-FBcT_K5fuva3MQv81fTU=",
+            "details": "Lead project teams to successfully deliver projects on time and within budget, ensuring adherence to project scope and objectives. Effectively communicate project progress, risks, and issues to stakeholders, and collaborate with cross-functional teams to mitigate risks and resolve issues.",
+            "openPositions": "1",
+            "link": "https://www.glassdoor.com/Job/project-manager-jobs-SRCH_KO0,15.htm"
+        },
+        {
+            "title": "Product Manager",
+            "image": "https://i.pinimg.com/236x/ee/57/22/ee5722ad0fcdc3957dc33ad8ec1ee652.jpg",
+            "details": "Responsible for managing the entire product life cycle, from ideation to launch and post-launch maintenance. Write product requirements for the core operating marketing systems, such as marketing automation, customer journey orchestration (CJO), improved data pipelines, and new partner integrations.",
+            "openPositions": "1",
+            "link": "https://www.glassdoor.com/Job/product-manager-jobs-SRCH_KO0,15.htm"
+        },
+        {
+            "title": "Sales Representative",
+            "image": "https://images.unsplash.com/photo-1556745753-b2904692b3cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2FsZXMlMjByZXByZXNlbnRhdGl2ZXxlbnwwfHwwfHx8MA%3D%3D",
+            "details": "Responsible for reaching out to potential customers and closing sales deals. Cultivate and sustain client relationships through effective communication.",
+            "openPositions": "4",
+            "link": "https://www.glassdoor.com/Job/sales-representative-jobs-SRCH_KO0,20.htm"
+        },
+        {
+            "title": "Network Technician",
+            "image": "https://i.pinimg.com/236x/09/e6/82/09e682a5c15671e76789425fb130b12b.jpg",
+            "details": "Responsible for analyzing, testing, troubleshooting and evaluating network systems.",
+            "openPositions": "1",
+            "link": "https://www.glassdoor.com/Job/network-technician-jobs-SRCH_KO0,18.htm"
+        },
+        {
+            "title": "Help Desk Assistant",
+            "image": "https://i.pinimg.com/236x/2f/9c/68/2f9c68d4bc240aa942b374dd3da9c9fa.jpg",
+            "details": "Responsible for providing users of technology with support and services. Main duties are to address all customer or user issues, along with common technological problems. Troubleshoot a variety of symptoms, diagnose problems, test, and recommend and implement solutions for technology problems.",
+            "openPositions": "1",
+            "link": "https://www.glassdoor.com/Job/help-desk-technician-jobs-SRCH_KO0,20.htm"
+        },
+        {
+            "title": "Associate Security Analyst",
+            "image": "https://i.pinimg.com/236x/35/08/2f/35082f6f7ba70c35e1090d44781e4557.jpg",
+            "details": "Investigate phishing attempts, conduct vulnerability scans, track down vulnerabilities. Develop ISO 22301 business and cyber resiliency procedures. Design and host tabletop exercises.",
+            "openPositions": "4",
+            "link": "https://www.glassdoor.com/Job/security-analyst-jobs-SRCH_KO0,16.htm"
+        },
+        {
+            "title": "Marketing Manager",
+            "image": "https://i.pinimg.com/236x/2e/14/f0/2e14f004782aabf238b73439e1a2e1c8.jpg",
+            "details": "Responsible for creating and executing marketing strategies to promote a company or product.",
+            "openPositions": "1",
+            "link": "https://www.glassdoor.com/Job/marketing-manager-jobs-SRCH_KO0,17.htm"
+        }
+    ]
+}
