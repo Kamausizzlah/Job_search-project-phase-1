@@ -10,9 +10,9 @@ const fetchJobs = () => {
     .then((data) => {
 
       if (data.length == 1) {
-        jobsHeading.innerHTML = `${jobs.length} Job`;
+        jobsHeading.innerHTML = `${data.length} Job`;
       } else {
-        jobsHeading.innerHTML = `${jobs.length} Jobs`;
+        jobsHeading.innerHTML = `${data.length} Jobs`;
       }
 
       const createJobListingCards = () => {
