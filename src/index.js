@@ -8,9 +8,8 @@ const fetchJobs = () => {
   fetch("https://json-server-phase-1-project-c37n.onrender.com/jobs")
     .then(res => res.json())
     .then((data) => {
-      const jobs = data.jobs;
 
-      if (jobs.length == 1) {
+      if (data.length == 1) {
         jobsHeading.innerHTML = `${jobs.length} Job`;
       } else {
         jobsHeading.innerHTML = `${jobs.length} Jobs`;
@@ -19,7 +18,7 @@ const fetchJobs = () => {
       const createJobListingCards = () => {
         jobsContainer.innerHTML = "";
 
-        jobs.forEach((job) => {
+        data.forEach((job) => {
           if (job.title.toLowerCase().includes(searchTerm.toLowerCase())) {
             let jobCard = document.createElement("div");
             jobCard.classList.add("job");
@@ -39,6 +38,7 @@ const fetchJobs = () => {
             detailsBtn.href = job.link;
             detailsBtn.innerHTML = "More Details";
             detailsBtn.classList.add("details-btn");
+            detailsBtn.target = "blank"
 
             let openPositions = document.createElement("span");
             openPositions.classList.add("open-positions");
